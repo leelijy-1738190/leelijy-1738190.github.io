@@ -1,29 +1,29 @@
 body{
-	background-image: url('dark_wood.jpg');
+	background-image: url('corgi.jpg');
 }
 
 #Header {
-	width: 500px;
+	width: 1000px;
 	margin-left: auto;
 	margin-right: auto;
-	margin-bottom: 10px;
+	margin-bottom: 50px;
 	text-align: center;
-	background-color: #8339CF;
-	color: #FFBC00;
+	color: black;
+	font-size: 80px;
 }
 
 
 h3{
-	color: yellow;
-	font-size: 40px;
-	font-family: "Passion One";
-	margin-bottom: 0px;
+	color: black;
+	font-size: 50px;
+	font-family: "Arial";
+	margin-bottom: 5px;
 }
 
 p {
-	color: white;
-	font-family: "Arial";
-	font-weight: bold;
+	color: pink;
+	font-family: "Passion One";
+	font-size: 30px;
 
 }
 
@@ -32,31 +32,30 @@ p {
 	width: 400px;
 	border: white;
 	text-align: center;
-	background-color: #8339CF;
+	background-color: yellow;
 }
 ul {
 	list-style-type: none;
 }
 
 #Content {
-	width: 700px;
+	width: 1000px;
 	margin-left: auto;
 	margin-right: auto;
-	margin-bottom: 10px;
-	border: solid 8px white;
+	margin-bottom: 20px;
+	border: solid 8px yellow;
 	text-align: center;
-	background-color: #8339CF;
-	padding: 15px;
+	background-color: white;
+	padding: 25px;
 }
 
 #bow{
 	color: #FFBC00;
-	font-weight: bold;
-	font-size: 20px;
+	font-size: 50px;
 }
 
 #Footer {
 	text-align: center;
-	border: solid 8px white;
-	background-color: #8339CF;
+	border: solid 10px yellow;
+	background-color: orange;
 }
